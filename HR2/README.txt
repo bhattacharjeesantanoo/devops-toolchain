@@ -17,3 +17,6 @@ located at the root folder, in that file you must change the line 6,
 variable $to, changing its value by your company's email address.
 
 Your server must allow php processing.
+
+——
+sample change 1
